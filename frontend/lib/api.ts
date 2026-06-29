@@ -11,3 +11,4 @@ export const toggleTask = (id: string) => API.patch(`/tasks/${id}/toggle`)
 export const updateDeadline = (id: string, deadline: string) =>
   API.patch(`/tasks/${id}/deadline`, { deadline })
 export const deleteTask = (id: string) => API.delete(`/tasks/${id}`)
+// API functions connect frontend to Express backend
