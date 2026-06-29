@@ -111,3 +111,4 @@ export const deleteTask = async (req: Request, res: Response) => {
     res.status(500).json({ message: 'Server error while deleting task' });
   }
 };
+// Controller handles all task business logic
