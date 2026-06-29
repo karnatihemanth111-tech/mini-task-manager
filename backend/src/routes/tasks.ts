@@ -16,3 +16,4 @@ router.patch('/:id/deadline',  updateDeadline);  // PATCH  /api/tasks/:id/deadli
 router.delete('/:id',          deleteTask);      // DELETE /api/tasks/:id
 
 export default router;
+// Routes map URLs to controller functions
