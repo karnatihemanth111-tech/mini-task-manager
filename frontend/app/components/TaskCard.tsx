@@ -73,3 +73,4 @@ export default function TaskCard({ task, onToggle, onDelete }: Props) {
     </div>
   )
 }
+// TaskCard displays individual task with deadline status
