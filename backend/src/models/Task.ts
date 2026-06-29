@@ -31,3 +31,4 @@ const TaskSchema: Schema = new Schema(
 );
 
 export default mongoose.model<ITask>('Task', TaskSchema);
+// Task model - defines schema for MongoDB
