@@ -2,7 +2,7 @@
 
 A full-stack Task Manager application built with **Next.js**, **TypeScript**, **Node.js**, **Express**, **MongoDB**, and **Tailwind CSS**.
 
-## 🚀 Features
+##  Features
 
 - Add new tasks
 - Set optional deadlines
@@ -15,7 +15,7 @@ A full-stack Task Manager application built with **Next.js**, **TypeScript**, **
   - X Days Left
 - Progress bar showing completed tasks
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Next.js (App Router)
@@ -31,7 +31,7 @@ A full-stack Task Manager application built with **Next.js**, **TypeScript**, **
 - MongoDB
 - Mongoose
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 mini-task-manager/
@@ -74,7 +74,7 @@ Backend runs at:
 http://localhost:5000
 ```
 
-## ▶️ Frontend Setup
+## ▶️= Frontend Setup
 
 Open another terminal:
 
@@ -99,7 +99,7 @@ http://localhost:3000
 - Used Mongoose for MongoDB schema management.
 - Organized backend into controllers, models, and routes.
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - User authentication
 - Search tasks
